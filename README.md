@@ -13,7 +13,7 @@
 - [Walkability Analysis](https://github.com/YiranJing/BigDataAnalysis/blob/master/WalkabilityAnalysis/report.pdf) Perform a walkability analysis for different neighbourhoods in the Greater Sydney area using SQL and Google Map API.
 - [Binary Classification for customer response](https://github.com/YiranJing/ClassificationAnalysis/blob/master/CustomerResponseClassification/Report.pdf) 
 
-## Study Details 👩🏻‍💼
+## My Study Details
 
 ### Advanced mathematics
 - [Vector Calculus and Differential Eqs (Adv)](https://sydney.edu.au/courses/units-of-study/2019/math/math2921.html) MATH2921
