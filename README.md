@@ -8,12 +8,10 @@
 - Analysis Skills: Statistical and ML models, Data Cleaning, Data Engineering, Data Visualization
 
 ## Representative Works
-- [Statistical and ML Time Series](../TimeSeriesAnalysis/master/MachineLearningTimeSeries/Report.pdf) Reducing Power Supply Costs in South Australia using Statistical time series Modelling and ML Methods.
-- [House Price Forecasting](CrossSectionalAnalysis/HousePricesModelling/Report.pdf) ML Model Stacking for house price forecast.
-- [Walkability Analysis](../BigDataAnalysis/WalkabilityAnalysis/report.pdf) Perform a walkability analysis for different neighbourhoods in the Greater Sydney area using SQL and Google Map API.
-- [Binary Classification for customer response](../YiranJing/ClassificationAnalysis/master/CustomerResponseClassification/Report.pdf) 
-
-- [Binary Classification for customer response](YiranJing/ClassificationAnalysis/master/CustomerResponseClassification/Report.pdf) 
+- [Statistical and ML Time Series](https://github.com/YiranJing/TimeSeriesAnalysis/blob/master/MachineLearningTimeSeries/Report.pdf) Reducing Power Supply Costs in South Australia using Statistical time series Modelling and ML Methods.
+- [House Price Forecasting](https://github.com/YiranJing/CrossSectionalAnalysis/blob/master/HousePricesModelling/Report.pdf) ML Model Stacking for house price forecast.
+- [Walkability Analysis](https://github.com/YiranJing/BigDataAnalysis/blob/master/WalkabilityAnalysis/report.pdf) Perform a walkability analysis for different neighbourhoods in the Greater Sydney area using SQL and Google Map API.
+- [Binary Classification for customer response](.https://github.com/YiranJing/ClassificationAnalysis/blob/master/CustomerResponseClassification/Report.pdf) 
 
 ## Study Details 👩🏻‍💼
 
