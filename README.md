@@ -57,7 +57,7 @@
 
 
 ### Special Thanks to [Chris Hyland](https://chrishyland.github.io/) 👼🏻
-My thanks for all chris' help with my study, mental growth and career development. Far away from true friendship, he is my life mentor, cherub.
+My thanks for all chris' help with my study, mental growth and career development. Far from true friendship, he is my life mentor, cherub.
 
 
 ### Contact Me ✉️
