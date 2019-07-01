@@ -1,4 +1,4 @@
-## Self Introduction  🌱
+## About Myself   🌱
 - Name: Yiran Jing
 - Work Experience [Yiran's LinkedIn](https://www.linkedin.com/in/yiranjing/)
 - Resume [Yiran's Resume](../master/Resume_Yiran.pdf) 
