@@ -1,5 +1,9 @@
-# Click-Me-First
-Reading Guide for my Data Science Portfolio (README)
+# About Myself
+
+
+
+[Resume](../master/Resume_Yiran.pdf)
+
 
 
 ### Contact Me
