@@ -1,4 +1,4 @@
-## About Myself   🌱
+## About Me   🌱
 - Name: Yiran Jing
 - Work Experience [Yiran's LinkedIn](https://www.linkedin.com/in/yiranjing/)
 - Resume [Yiran's Resume](../master/Resume_Yiran.pdf) 
@@ -51,7 +51,7 @@
 
 
 
-### Econometric
+### Econometrics
 - [Econometric Analysis](https://sydney.edu.au/courses/units-of-study/2018/ecmt/ecmt2160.html) ECMT2160
 
 
