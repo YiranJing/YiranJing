@@ -2,7 +2,7 @@
 - Name: Yiran Jing
 - Work Experience [Yiran's LinkedIn](https://www.linkedin.com/in/yiranjing/)
 - Resume [Yiran's Resume](../master/Resume_Yiran.pdf) 
-- Career Interets: Data Science 
+- Career Interest: Data Science 
 - Study: Advanced mathematics, statistics, business analytics and computer science at the university of Sydney
 - **Programming Skills**: 👩🏻‍💻 Python, R, SQL database, mazon Sagemaker, Java, Hadoop, Flink, Java, Latex, JavaScript
 - Analysis Skills: Statistical and ML models, Data Cleaning, Data Engineering, Data Visualization
