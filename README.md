@@ -5,7 +5,7 @@
 - Career Interest: Data Science 
 - Study: Advanced mathematics, statistics, business analytics and computer science at the university of Sydney
 - **Programming Skills**: 👩🏻‍💻 **Python**(Advanced), **R**(Intermediate), **SQL** database(Advanced), **Amazon Sagemaker and Lambda Function**(Intermediate), Java, Hadoop, Flink(beginner), Latex(Advanced), JavaScript(beginner), Stata, Matlab
-- Analysis Skills: Statistical and ML models, Data Cleaning, Data Engineering, Data Visualization
+- Analysis Skills: Statistical Inference, Data Cleaning, Data Engineering, Data Visualization, Statistical and ML models
 
 ## Representative Proejcts
 - [Power Demand Foreast of South Australia](https://github.com/YiranJing/TimeSeriesAnalysis/blob/master/MachineLearningTimeSeries/Report.pdf) Reducing Power Supply Costs in South Australia using Statistical time series Modelling and ML Methods.
