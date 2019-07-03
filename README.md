@@ -9,7 +9,7 @@
 
 ## Representative Proejcts
 - [Power Demand Foreast of South Australia](https://github.com/YiranJing/TimeSeriesAnalysis/blob/master/MachineLearningTimeSeries/Report.pdf) Reducing Power Supply Costs in South Australia using Statistical time series Modelling and ML Methods.
-- [Telecom Customer Churn Prediction](https://github.com/YiranJing/BigDataAnalysis/tree/master/AWS_SageMaker_CustomerChurn) using Amazon sagemaker XGboost (Own Project)
+- [Telecom Customer Churn Prediction](https://github.com/YiranJing/BigDataAnalysis/tree/master/AWS_SageMaker_CustomerChurn) using Amazon sagemaker XGboost and Lambda Function on S3 event trigger (Own Project).
 - [House Price Forecast](https://github.com/YiranJing/CrossSectionalAnalysis/blob/master/HousePricesModelling/Report.pdf) ML Model Stacking for house price forecast.
 - [Walkability Analysis of Sydney](https://github.com/YiranJing/BigDataAnalysis/blob/master/WalkabilityAnalysis/report.pdf) Perform a walkability analysis for different neighbourhoods in the Greater Sydney area using SQL and Google Map API.
 - [Binary Classification for customer response](https://github.com/YiranJing/ClassificationAnalysis/blob/master/CustomerResponseClassification/Report.pdf) 
