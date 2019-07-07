@@ -3,7 +3,7 @@
 - Work Experience [Yiran's LinkedIn](https://www.linkedin.com/in/yiranjing/)
 - Resume [Yiran's Resume](../master/Resume_Yiran.pdf) 
 - Career Interest: Data Science 
-- Study: Advanced mathematics, statistics, business analytics and computer science at the university of Sydney
+- Study: Advanced mathematics, statistics, business analytics, computer science and Econometrics at the university of Sydney
 - **Programming Skills**: 👩🏻‍💻 **Python**(Advanced), **R**(Intermediate), **SQL** database(Advanced), **Amazon Sagemaker and Lambda Function**(Intermediate), Java, Hadoop, Flink(beginner), Latex(Advanced), JavaScript(beginner), Stata, Matlab
 - Analysis Skills: Statistical Inference, Data Cleaning, Data Engineering, Data Visualization, Statistical and ML models
 
@@ -20,8 +20,9 @@
 - [Vector Calculus and Differential Eqs (Adv)](https://sydney.edu.au/courses/units-of-study/2019/math/math2921.html) MATH2921
 - [Linear and Abstract Algebra (Adv)](https://sydney.edu.au/courses/units-of-study/2019/math/math2922.html) MATH2922
 - [Analysis](https://sydney.edu.au/courses/units-of-study/2019/math/math2023.html) MATH2023
+- [Partial Differential Equations and Waves](https://sydney.edu.au/courses/units-of-study/2019/math/math3078.html) MATH3078
 - [Metric Spaces (Adv)](https://sydney.edu.au/courses/units-of-study/2019/math/math3961.html) MATH3961 (2020)
-- [Measure Theory and Fourier Analysis (Adv)](https://sydney.edu.au/courses/units-of-study/2019/math/math3969.html) MATH4069 
+- [Measure Theory and Fourier Analysis (Adv)](https://sydney.edu.au/courses/units-of-study/2019/math/math3969.html) MATH4069 (2020)
 
 
 ### Advanced Statistics
@@ -39,7 +40,9 @@
 - [Data & Information Management](https://cusp.sydney.edu.au/students/view-unit-page/alpha/ISYS2120) ISYS2120
 - [Data Science Platforms](https://cusp.sydney.edu.au/students/view-unit-page/uos_id/289912) DATA3404
 - [Formal Languages and Logic](https://cusp.sydney.edu.au/students/view-unit-page/alpha/COMP2022) COMP2022
+- [Algorithm Design (Adv)](https://cusp.sydney.edu.au/students/view-unit-page/uos_id/289946) COMP3927 (2020)
 - [Systems Programming](https://cusp.sydney.edu.au/students/view-unit-page/uos_id/289835) COMP2017 (2020)
+
 
 
 ### Business Analytics
@@ -51,9 +54,9 @@
 
 
 
-
 ### Econometrics
 - [Econometric Analysis](https://sydney.edu.au/courses/units-of-study/2018/ecmt/ecmt2160.html) ECMT2160
+- [Computational Econometrics](https://sydney.edu.au/courses/units-of-study/2018/ecmt/ecmt3170.html) ECMT3170
 
 
 
