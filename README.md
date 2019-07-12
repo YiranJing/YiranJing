@@ -3,8 +3,10 @@
 - Work Experience [Yiran's LinkedIn](https://www.linkedin.com/in/yiranjing/)
 - Resume [Yiran's Resume](../master/Resume_Yiran.pdf) 
 - Career Interest: Data Science 
-- Study: Advanced mathematics, statistics, business analytics, computer science and Econometrics at the university of Sydney
-- **Programming Skills**: 👩🏻‍💻 **Python**(Advanced), **R**(Intermediate), **SQL** database(Advanced), **Amazon Sagemaker and Lambda Function**(Intermediate), Java, Hadoop, Flink(beginner), Latex(Advanced), JavaScript(beginner), Stata, Matlab
+- Bachelor of Science and Advanced Study: (University of Sydney)
+  - Major: Statistics and Computer Science 
+  - Minor: Mathematics, Business Analytics
+- **Programming Skills**: 👩🏻‍💻 **Python**(Advanced), **R**(Intermediate), **SQL** database(Advanced), **Amazon Sagemaker and Lambda**(Intermediate), Java, Hadoop, Flink(beginner), Latex(Advanced), JavaScript(beginner), Stata, Matlab
 - Analysis Skills: Statistical Inference, Data Cleaning, Data Engineering, Data Visualization, Statistical and ML models
 
 ## Representative Proejcts
