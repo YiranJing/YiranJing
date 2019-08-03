@@ -13,6 +13,8 @@
 - [Power Demand Foreast of South Australia](https://github.com/YiranJing/TimeSeriesAnalysis/blob/master/MachineLearningTimeSeries/Report.pdf) Reducing Power Supply Costs in South Australia using Statistical time series Modelling and ML Methods.
 - [Telecom Customer Churn Prediction](https://github.com/YiranJing/BigDataAnalysis/tree/master/AWS_SageMaker_CustomerChurn) using Amazon sagemaker XGboost, Amazon Lambda, and MapReduce algorithm (Own Project).
 - [AWS Forecast Golf with Weather](https://github.com/YiranJing/BigDataAnalysis/tree/master/AWS_Forecast_GolfwithWeather) Cleaning Time series data, and then Modeling, Deploying, and Forecasting using Sagemaker (Multi-variate) DeepAR+ and Amazon Forecast console. (Own Project)
+ -[Food and customer analysis using app spider and NLP](https://github.com/YiranJing/WebSpider-NLP-foodAnalysis) Helping the operation of a new noodle restaurant located in Zhengzhou, Henan. (Own Project)
+
 - [House Price Forecast](https://github.com/YiranJing/CrossSectionalAnalysis/blob/master/HousePricesModelling/Report.pdf) ML Model Stacking for house price forecast.
 - [Walkability Analysis of Sydney](https://github.com/YiranJing/BigDataApplication/blob/master/WalkabilityAnalysis/report.pdf) Perform a walkability analysis for different neighbourhoods in the Greater Sydney area using SQL and Google Map API.
 - [Binary Classification for customer response](https://github.com/YiranJing/ClassificationAnalysis/blob/master/CustomerResponseClassification/Report.pdf) 
