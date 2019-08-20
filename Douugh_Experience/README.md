@@ -1,6 +1,7 @@
 # The Summery of Practical Skills I Leart at Douugh
-Part-time Data Scientist Intern (two days per week)
-Aug 13 2019 - Oct 31 2019 (12 weeks)
+**Part-time Data Scientist Intern (two days per week)**
+
+Date: Aug 13 2019 - Oct 31 2019 (12 weeks)
 
 ## Week 1: 
 - Know my role in data team, and begin work on the multi-classification project.
