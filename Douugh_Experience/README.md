@@ -19,5 +19,5 @@ Date: Aug 13 2019 - Oct 31 2019 (12 weeks)
 ## Week 3:
 - MLflow for ML lifecycle monitor
 - Learn how to debug through command line. For example, `ps aux | grep mlflow` to check and kill mlflow. 
-- Structured a key word selection row to pick as many key words/featurers as possible, which can automatically increasing the size of features on the larger dataset. 
+- Build a automatical word selection rule to pick as many key words/featurers as possible, which can automatically increasing the size of features on the larger dataset. 
 - Train Simple Neural Network BOW.
