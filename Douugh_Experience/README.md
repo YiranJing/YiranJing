@@ -27,3 +27,8 @@ Date: Aug 13 2019 - Oct 31 2019 (12 weeks)
 - Split train and test dataset based on time-series in the cross-sectional dataset. There are three main reasons: Firstly, we always make decision using the most recent data based on the model trained by old data in daily operation. Secondly, the time horizon is important and necessary to help us notify customer behavor change over time. Thirdly,my interesting finding is that, actually we could get "more even split" in some "extremely imbalanced" classes by time series spliting, rather than random state. 
 - Overfitting is easily happen in small category with quite few observations. For example, the selected key words in "Healthcare" inlcudes "Sydney", "Mel" etc, which are quite general words. I need to keep it in mind in the future test using new data.
 - Train Simple Neural Network BOW. 
+
+### Weed 4:
+-  Try to fix the overfiting issue in NN model with two layers. Learned how to control epochs and modify "Early Stopping" (a technique for controlling overfitting in machine learning models). 
+- Finding that the multinomial logistic regression is holpless to train (even more time than NN) when the number of classes increase. (easy to do if less than 15 classes, but when come to 60 classes, I am unable to train it out)
+
