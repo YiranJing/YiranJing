@@ -30,5 +30,5 @@ Date: Aug 13 2019 - Oct 31 2019 (12 weeks)
 
 ### Weed 4:
 -  Try to fix the overfiting issue in NN model with two layers. Learned how to control epochs and modify "Early Stopping" (a technique for controlling overfitting in machine learning models). 
-- Finding that the multinomial logistic regression is holpless to train (even more time than NN) when the number of classes increase. (easy to do if less than 15 classes, but when come to 60 classes, I am unable to train it out)
+- Finding that the multinomial logistic regression is holpless to train (even more time than NN) when the number of classes increase. (easy to do if less than 15 classes, but when come to 60 classes, nearly 1 hour to train it)
 
