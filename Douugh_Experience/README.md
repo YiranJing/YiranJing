@@ -30,5 +30,7 @@ Date: Aug 13 2019 - Oct 31 2019 (12 weeks)
 
 ### Weed 4:
 -  Try to fix the overfiting issue in NN model with two layers. Learned how to control epochs and modify "Early Stopping" (a technique for controlling overfitting in machine learning models). 
-- Finding that the multinomial logistic regression is holpless to train (even more time than NN) when the number of classes increase. (easy to do if less than 15 classes, but when come to 60 classes, nearly 1 hour to train it)
+- Finding that the multinomial logistic regression is expensive to train (even more time than NN) when the number of classes increase. (easy to do if less than 15 classes, but when come to 60 classes, nearly 1 hour to train it)
+- Find a big advanatge of classifical logistic model compared to ML models: we donot need to worry much about overfitting in logistic cases. However, we can easily overfitting using ML model. For example, I try simple Sequential model with one hidden layers, but overfit already. And then, I have to consider Epoch numer turnning, regularizer. But still cannot beat the simple logistic model.
+- focus on loss, rather than accuracy , since the model optimizer is minimize the loss function we choice. 
 
