@@ -36,5 +36,5 @@ Date: Aug 13 2019 - Oct 31 2019 (12 weeks)
 
 ### Week 5:
 - Neural Network hyperparameter turning: 1. mini gap between train and test dataset, fix overfitting problem. 2. Try to improve overall accuracy further.
-- Data quality issue: find problem and try to fix it. Since hard to mini train and test accuracy, and cannot improve model accuracy further. Incorrect values(Help system debug) and Inconsistent values(it is a challenge part for NLP modeeling, since it is hard to handle different expressions) are the main issues in the given dataset.
+- Try to build automated tools to remedy data quality issue: find problem and try to fix it. Since hard to mini train and test accuracy, and cannot improve model accuracy further. Incorrect values(Help system debug) and Inconsistent values(it is a challenge part for NLP modeeling, since it is hard to handle different expressions) are the main issues in the given dataset. 
 
