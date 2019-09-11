@@ -28,9 +28,13 @@ Date: Aug 13 2019 - Oct 31 2019 (12 weeks)
 - Overfitting is easily happen in small category with quite few observations. For example, the selected key words in "Healthcare" inlcudes "Sydney", "Mel" etc, which are quite general words. I need to keep it in mind in the future test using new data.
 - Train Simple Neural Network BOW. 
 
-### Weed 4:
+### Week 4:
 -  Try to fix the overfiting issue in NN model with two layers. Learned how to control epochs and modify "Early Stopping" (a technique for controlling overfitting in machine learning models). 
 - Finding that the multinomial logistic regression is expensive to train (even more time than NN) when the number of classes increase. (easy to do if less than 15 classes, but when come to 60 classes, nearly 1 hour to train it)
 - Find a big advanatge of classifical logistic model compared to ML models: we donot need to worry much about overfitting in logistic cases. However, we can easily overfitting using ML model. For example, I try simple Sequential model with one hidden layers, but overfit already. And then, I have to consider Epoch numer turnning, regularizer. But still cannot beat the simple logistic model.
 - focus on loss, rather than accuracy , since the model optimizer is minimize the loss function we choice. 
+
+### Week 5:
+- Neural Network hyperparameter turning: 1. mini gap between train and test dataset, fix overfitting problem. 2. Try to improve overall accuracy further.
+- Data quality issue: find problem and try to fix it. Since hard to mini train and test accuracy, and cannot improve model accuracy further. 
 
