@@ -4,7 +4,9 @@
 Date: Aug 13 2019 - Oct 31 2019 (12 weeks)
 ## Key skills I  learnt at Douugh
 ### Experiment-based decision in DS lifeCycle:
-- Experiment-based decision for data engineering is a more efficiency and secure way to handle project. That is, using **Feedback lifecycle** (Purpose of MLflow usage): Step 1: Do simple necessary data cleaning at the begining, and then train model quickly (baseline: logistic, naive bayes, and NN). Step 2: based on model performance and comparison, thinking about **why better/worse** based on data pattern. After that, go back to add one more step in data cleanning. i.e. **Only focus on one most important issues each time**, analysis, justify and check every deicison I made. (*Instead of concerning many data cleaning steps based on the EDA of raw input, but some of cleaning needs lots of time to finish (e.g. fix all spelling mistakes, remedy inconsistent data issue), and no one knows if all of them are worth to do.*)
+Experiment-based decision for data engineering is a more efficiency and secure way to handle project. That is, using **Feedback lifecycle** (Purpose of MLflow usage): 
+- Step 1: Do simple necessary data cleaning at the begining, and then train model quickly (baseline: logistic, naive bayes, and NN). 
+- Step 2: based on model performance and comparison, thinking about **why better/worse** based on data pattern. After that, go back to step 1 to do another necessary data cleanning. i.e. **Only focus on one most important issues each time**, analysis, justify and check every deicison I made. (*Instead of concerning all kinds of data cleaning steps based on the EDA of raw input, since some of cleaning needs lots of time to finish (e.g. fix all spelling mistakes, remedy inconsistent data issue), but no one knows if all of them are worth to do.*)
 
 ### Time difference thinking in cross-sectional modelling
 Data difference based on time line are common and important in the real world. Some possible reasons are: Company or governments changes their strategies, or customer behavors change. 
