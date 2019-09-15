@@ -2,10 +2,15 @@
 **Part-time Data Scientist Intern (two days per week)**
 
 Date: Aug 13 2019 - Oct 31 2019 (12 weeks)
-## Problem-solving skills I  learnt at Douugh
-### Week 2-3:
-- **Experiment-based** decision for data engineering (More efficiency and secure). **Feedback lifecycle** (Purpose of MLflow usage): At the begining, I concern many data cleaning steps based on the EDA of raw input, but some of cleaning needs lots of time to finish (e.g. fix all spelling mistakes, remedy inconsistent data issue), and no one knows if all of them are worth to do. So, instand of spending time on all possible data cleaning steps before modelling, I only did few necessary data cleaning and then train model quickly (baseline: logistic, naive bayes, and NN). Then, based on model performance and comparison, thinking about **why better/worse** based on data pattern. After that, go back to add one more step in data cleanning. i.e. **Only focus on one most important issues each time**, analysis, justify every deicison I made. 
-- **Time difference thinking in cross-sectional modelling**. Data difference based on time line are turly common and important in the real world. Some possible reasons are: Company or governments changes their strategies, or customer behavors change. Also, after spliting train and test dataset based on time-series , the difference we find might not caused by time! 
+## Key skills I  learnt at Douugh
+### Experiment-based decision in DS lifeCycle:
+- Experiment-based decision for data engineering is a more efficiency and secure way to handle project. That is, using **Feedback lifecycle** (Purpose of MLflow usage): Step 1: Do simple necessary data cleaning at the begining, and then train model quickly (baseline: logistic, naive bayes, and NN). Step 2: based on model performance and comparison, thinking about **why better/worse** based on data pattern. After that, go back to add one more step in data cleanning. i.e. **Only focus on one most important issues each time**, analysis, justify and check every deicison I made. (*Instead of concerning many data cleaning steps based on the EDA of raw input, but some of cleaning needs lots of time to finish (e.g. fix all spelling mistakes, remedy inconsistent data issue), and no one knows if all of them are worth to do.*)
+
+### Time difference thinking in cross-sectional modelling
+Data difference based on time line are common and important in the real world. Some possible reasons are: Company or governments changes their strategies, or customer behavors change. 
+
+### Improve data quality is more valuable than modelling:
+I am not saying good model is not important, but data quality is the pre-condition of good prediction result. Apart from dealing with missing value and default value, discovering incorrect value and inconsistent value is more tricky. During NN model turning process, I realized that the noise and error in the data gives the implicit limitation of model performance, (*possible we can get an insensible incorrect model if the training data is further away from the unknown data in the future*). Therefore, the skill to detect and then improve data quality is important. 
 
 
 ## Practical Skills I Leart at Douugh
@@ -35,6 +40,6 @@ Date: Aug 13 2019 - Oct 31 2019 (12 weeks)
 - focus on loss, rather than accuracy , since the model optimizer is minimize the loss function we choice. 
 
 ### Week 5:
-- Neural Network hyperparameter turning: 1. mini gap between train and test dataset, fix overfitting problem. 2. Try to improve overall accuracy further.
+- The goal of Neural Network hyperparameter turning: 1. mini gap between train and test dataset, fix overfitting problem. 2. Try to improve overall accuracy further.
 - Try to build automated tools to remedy data quality issue: find problem and try to fix it. Since hard to mini train and test accuracy, and cannot improve model accuracy further. Incorrect values(Help system debug) and Inconsistent values(it is a challenge part for NLP modeeling, since it is hard to handle different expressions) are the main issues in the given dataset. 
 - Try Fuzzy Matching to reclassify the incorrect classification. 
