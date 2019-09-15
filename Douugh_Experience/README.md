@@ -2,7 +2,7 @@
 **Part-time Data Scientist Intern (two days per week)**
 
 Date: Aug 13 2019 - Oct 31 2019 (12 weeks)
-## Key skills I  learnt at Douugh
+## Problem-solving skills I learnt at Douugh
 ### Experiment-based decision in DS lifeCycle:
 Experiment-based decision for data engineering is a more efficiency and secure way to handle project. That is, using **Feedback lifecycle** (Purpose of MLflow usage): 
 - Step 1: Do simple necessary data cleaning at the begining, and then train model quickly (baseline: logistic, naive bayes, and NN). 
