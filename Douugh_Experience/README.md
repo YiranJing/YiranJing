@@ -10,7 +10,7 @@ Date: Aug 13 2019 - Oct 31 2019 (12 weeks)
 Data difference based on time line are common and important in the real world. Some possible reasons are: Company or governments changes their strategies, or customer behavors change. 
 
 ### Improve data quality is more valuable than modelling:
-I am not saying good model is not important, but data quality is the pre-condition of good prediction result. Apart from dealing with missing value and default value, discovering incorrect value and inconsistent value is more tricky. During NN model turning process, I realized that the noise and error in the data gives the implicit limitation of model performance, (*possible we can get an insensible incorrect model if the training data is further away from the unknown data in the future*). Therefore, the skill to detect and then improve data quality is important. 
+I am not saying good model is not important, but data quality is the pre-condition of good prediction result. Apart from dealing with missing value and default value, discovering incorrect value and inconsistent value is more tricky. During NN model turning process, I realized that the noise and error in the data gives the implicit limitation of model performance, (*possible we can get an insensible incorrect model if the training data is further away from the unknown data in the future*). Therefore, I need to keep improving data quality in my mind. 
 
 
 ## Practical Skills I Leart at Douugh
