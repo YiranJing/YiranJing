@@ -16,7 +16,7 @@ I am not saying good model is not important, but data quality is the pre-conditi
 ##### The ways to find and then fix incorrect values:
 Some incorrect values are not easy to find and fix. There are some practical rules I learnt that can help discorver incorrect labels:
 1. Analysis the FN predictions from the model. For example. If my model predict "Apple" to "Laptop" rather than "Fruit", then I use text similarity to search the whole dataset, also background/business knowledge to justify whether the original label is wrong.
-2. Understand the whole system running rules to avoid change correct value to incorrect ones. Also these background knowlesge can help to fingure out some "depedent" observations. For example, 'financial service' observation and 'bank fee' observation can happen at the same time from the same transaction. Realize these invisible patterns based on different business models are important in DS works.
+2. Understand the whole system running rules to avoid change correct value to incorrect ones. Also these background knowlesge can help to fingure out some "dependent" observations. For example, 'financial service' observation and 'bank fee' observation can happen at the same time from the same transaction. Realize these invisible patterns based on different business models are important in DS works.
 
 ### Unittest and Pytest are as important as write new functions. 
 Some small unknown mistake can lead to significant influence, and the more functions I wrote, the more likely I made mistakes. I realized how important to keep functools/pytest in my mind. To minimize the rist/avoid making mistakes again, since Week 6, I begin to write pytest at the same time I write new function.  
