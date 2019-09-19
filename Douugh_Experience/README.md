@@ -13,7 +13,13 @@ Data difference based on time line are common and important in the real world. S
 
 ### Improve data quality is more valuable than modelling:
 I am not saying good model is not important, but data quality is the pre-condition of good prediction result. Apart from dealing with missing value and default value, discovering incorrect value and inconsistent value is more tricky. During NN model turning process, I realized that the noise and error in the data gives the implicit limitation of model performance, (*possible we can get an insensible incorrect model if the training data is further away from the unknown data in the future*). Therefore, I need to keep improving data quality in my mind. 
+##### The ways to find and then fix incorrect values:
+Some incorrect values are not easy to find and fix. But as long as it is possible to fix, the more confidence we will have in the final prediction result. There are some rules I learnt from practice that can help us discorver incorrect values:
+1. Analysis the FN predictions's behavor of a reasomable model. For example. If my model predict "Apple" to "Laptop" rather than "Fruit", then I use text similarity to search in the whole dataset, also background/business knowledge to justify if the original label is wrong.
+2. Understand the whole system running rules to avoid change correct value to incorrect values. Also these background knowlesge can help us fingure out some depedent observations. For example, 'financial service' and 'bank fee' can happen at the same time based on the same transaction. Realize these invisible patterns can help the model training later on.
 
+### Unittest and Pytest are as important as write new functions. 
+Some small unknown mistake can lead to significant influence, and the more functions I wrote, the more likely I made mistakes. I realized the importance of using Functools and pytest to test my previous code. To minimize the rist/avoid making mistakes again, since Week 6, I begin to write pytest at the same time I write new function.  
 
 ## Practical Skills I Leart at Douugh
 ### Week 1: 
