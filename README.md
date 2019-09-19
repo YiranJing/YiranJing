@@ -40,14 +40,14 @@
 ### Computer Science
 - [Introduction to Programming](https://cusp.sydney.edu.au/students/view-unit-page/alpha/INFO1103) INFO1103
 - [Data Structures & Algorithms](https://cusp.sydney.edu.au/students/view-unit-page/uos_id/289859) COMP2123
-- [Data Science: Big Data and Data Diversity](https://cusp.sydney.edu.au/students/view-unit-page/uos_id/289852) DATA2001
-- [Data & Information Management](https://cusp.sydney.edu.au/students/view-unit-page/alpha/ISYS2120) ISYS2120
-- [Data Science Platforms](https://cusp.sydney.edu.au/students/view-unit-page/uos_id/289912) DATA3404
 - [Formal Languages and Logic](https://cusp.sydney.edu.au/students/view-unit-page/alpha/COMP2022) COMP2022
 - [Algorithm Design (Adv)](https://cusp.sydney.edu.au/students/view-unit-page/uos_id/289946) COMP3927 (2020)
 - [Systems Programming](https://cusp.sydney.edu.au/students/view-unit-page/uos_id/289835) COMP2017 (2020)
 
-
+### Data Science
+- [Data Science: Big Data and Data Diversity](https://cusp.sydney.edu.au/students/view-unit-page/uos_id/289852) DATA2001
+- [Data Science Platforms](https://cusp.sydney.edu.au/students/view-unit-page/uos_id/289912) DATA3404
+- [Data & Information Management](https://cusp.sydney.edu.au/students/view-unit-page/alpha/ISYS2120) ISYS2120
 
 
 ### Business Analytics
