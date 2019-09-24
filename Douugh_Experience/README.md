@@ -51,3 +51,23 @@ Some small unknown mistake can lead to significant influence, and the more funct
 - The goal of Neural Network hyperparameter turning: 1. mini gap between train and test dataset, fix overfitting problem. 2. Try to improve overall accuracy further.
 - Try to build automated tools to remedy data quality issue: find problem and try to fix it. Since hard to mini train and test accuracy, and cannot improve model accuracy further. Incorrect values(Help system debug) and Inconsistent values(it is a challenge part for NLP modeeling, since it is hard to handle different expressions) are the main issues in the given dataset. 
 - Try Fuzzy Matching to reclassify the incorrect classification. 
+
+### Week 7:
+- Stemmer algorithms choice: In NLP tech, we can collect less number of key words using LancasterStemmer compared to PorterStemmer method. In the case that we want to control total number of features and avoid collinearity issue (for example, logistic regression), it might be better to choice LancasterStemmer. However, In most ML models (such as NN), we donot care if collinearity exits or large number of features, then, PorterStemmer method is better. For example, `ubs` stands for bank, but LancasterStemmer will treat it same as `uber`, which is misleading and incorrect.
+
+```python
+from nltk.stem import PorterStemmer
+from nltk.stem import LancasterStemmer
+
+#create an object of class PorterStemmer
+porter = PorterStemmer()
+lancaster=LancasterStemmer()
+#proide a word to be stemmed
+print("Porter Stemmer")
+print(porter.stem("uber"))  #uber
+print(porter.stem("ubs"))  #ubs 
+print("------------------")
+print("Lancaster Stemmer")
+print(lancaster.stem("uber")) #ub
+print(lancaster.stem("ubs"))  #ub
+```
