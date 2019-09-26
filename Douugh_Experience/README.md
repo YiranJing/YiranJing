@@ -71,3 +71,5 @@ print("Lancaster Stemmer")
 print(lancaster.stem("uber")) #ub
 print(lancaster.stem("ubs"))  #ub
 ```
+- To improve FN predictions based on data pattern, Using Web spider and Yep API for example to collect help dataset. 
+- Regularly Reviewing previous desicions is important, which is not only helps to justify/be more confident to current status, but also can find possible mistakes or incorrect decision and fix them.
