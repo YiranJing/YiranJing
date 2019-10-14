@@ -3,6 +3,12 @@
 
 Date: Aug 13 2019 - Oct 31 2019 (12 weeks)
 ## Problem-solving skills I learnt at Douugh
+
+### Considering the whole picture whenever dealing with problem.
+*It is fact that everyone knows, but easy to forget when we are dealing with one specific probelm*: The solution of the problem generally consists of several different parts. Always ensuring check and fix the most important one first. Work efficiency and correct direction are always important in the work.
+- For example, when I try to overcome time difference issue between train and test data. I use 2 weeks to build yelp API and add new informations to raw data, and use 2 weeks to try test similarity to fix the mis-label data. They are good solution/idea, but they are just quite small amount among all misclassification results (less than 20%). By contrast, go back to think problem again and again, then change the 'split date' between train and test data is more efficient and actually should be the first thing to do before considering other small issues.
+
+
 ### Experiment-based decision in DS lifeCycle:
 Experiment-based decision for data engineering is a more efficiency and secure way to handle project. That is, using **Feedback lifecycle** (Purpose of MLflow usage): 
 - Step 1: Do simple necessary data cleaning at the begining, and then train model quickly (baseline: logistic, naive bayes, and NN). 
@@ -73,3 +79,15 @@ print(lancaster.stem("ubs"))  #ub
 ```
 - To improve FN predictions based on data pattern, Using Web spider and Yep API for example to collect help dataset. 
 - Regularly Reviewing previous desicions is important, which is not only helps to justify/be more confident to current status, but also can find possible mistakes or incorrect decision and fix them.
+
+
+### Week 8 and 9:
+- Importance of normalization for comtinuous feature: Ealier converge by more smoothing plot, and thus more efficient and robust results. The reason behind normalization is the `weight` of each features. 
+- Policy effect to the data: deplore row data and try to understand them. For example, Public transport policy changed in one city of America, before and after 2019-5-31. Thus I need to adjust train and test data for `Public transport service` category. 
+- EDA is important than model itself in some cases, and it is much more than plots and tables. Thus we should do it not only before modelling, but (more) after modelling to find error, understand hidden patterns etc. 
+- Fix all ambiguous words costs lots of time, but fix some of them is important. For example clean `superm` to `supermarket` is important, since it can help predict some ‘new' observations only in test dataset. 
+- Re-run NN model multiple times with same hyperparameters are important. Since if the test result changes a lot (more than 1%) between different trials, it implies that some observations(pattern) is unsure in model prediction. That is, model doesnot know what spicific pattern should be classificed, thus predict quite similar probability in several different categories. Possible reasons are:
+  1. misclassification in train data. 
+  2. new observations in test data only. 
+To ensure **robust** prediction result. It is important to find these patterns and fix them. 
+- Compare accuracy difference between ’time’ and ‘random’ data split method can help to find out time difference pattern. For example, some categories have quite high prediction acuracy using 'random' method, but not perform well using 'date-split' method. The possible reason is some new business only shown in recent month.
