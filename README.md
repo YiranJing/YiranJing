@@ -19,6 +19,8 @@
 - [House Price Forecast](https://github.com/YiranJing/CrossSectionalAnalysis/blob/master/HousePricesModelling/Report.pdf) ML Model Stacking for house price forecast.
 - [Walkability Analysis of Sydney](https://github.com/YiranJing/BigDataApplication/blob/master/WalkabilityAnalysis/report.pdf) Perform a walkability analysis for different neighbourhoods in the Greater Sydney area using SQL and Google Map API.
 - [Binary Classification for customer response](https://github.com/YiranJing/ClassificationAnalysis/blob/master/CustomerResponseClassification/Report.pdf) 
+- [Happiness Study]
+(https://github.com/YiranJing/Health_and_Happiness_Study/blob/master/report/DATA1002-Project-Stage2.pdf)
 
 ## My Study Details
 
