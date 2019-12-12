@@ -11,6 +11,10 @@
 - Data Engineering Winter Intern at Taysols: [Recommendation Letter](https://www.slideshare.net/YiranJing/recommendation-letter-taysols)
 - Data Science Intern at Douugh (current position): [Brief Summary of what I am learning](https://github.com/YiranJing/AboutMe/tree/master/Douugh_Experience)
 
+## Work Experience Demo
+[Data Scientist Inter at Lagardere Retail](https://github.com/YiranJing/Lagardere_CommercialAnalysis/blob/master/README.md)
+
+
 ## Representative Proejcts
 - [Power Demand Foreast of South Australia](https://github.com/YiranJing/TimeSeriesAnalysis/blob/master/MachineLearningTimeSeries/Report.pdf) Reducing Power Supply Costs in South Australia using Statistical time series Modelling and ML Methods.
 - [Telecom Customer Churn Prediction](https://github.com/YiranJing/BigDataAnalysis/tree/master/AWS_SageMaker_CustomerChurn) using Amazon sagemaker XGboost, Amazon Lambda, and MapReduce algorithm (Own Project).
