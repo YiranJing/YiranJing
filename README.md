@@ -5,15 +5,14 @@
 - Career Interest: Data Science 
 - Bachelor of Science and Advanced Study: (University of Sydney)
   - Major: Statistics and Data Science 
-  - Minor: Mathematics, Computer Science, and Business Analytics
-- **Programming Skills**: 👩🏻‍💻 **Python**(Advanced), **R**(Intermediate), **SQL** database(Advanced), **Amazon Sagemaker and Lambda**(Intermediate), Java, Hadoop, Flink(beginner), Latex(Advanced), JavaScript(beginner), Stata, Matlab
-- Analysis Skills: Statistical Inference, Data Cleaning, Data Engineering, Data Visualization, Statistical and ML models
-- Data Engineering Winter Intern at Taysols: [Recommendation Letter](https://www.slideshare.net/YiranJing/recommendation-letter-taysols)
-- Data Science Intern at Douugh (current position): [Brief Summary of what I am learning](https://github.com/YiranJing/AboutMe/tree/master/Douugh_Experience)
+  - Minor: Computer Science, and Business Analytics
+- **Programming Skills**: 👩🏻‍💻 Python, R, SQL, Amazon Sagemaker and Lambda, Java, Hadoop, Flink, JavaScript
+- [Software Engineering for Data Science](https://github.com/YiranJing/Software-Engineering-for-Data-Science/wiki) Study notes for supplementary skills, that are necessary for data science. 
 
 ## Work Experience Demo
-[Data Scientist Inter at Lagardere Retail](https://github.com/YiranJing/Lagardere_CommercialAnalysis/blob/master/README.md)
-
+- Data Engineering Intern at Taysols: [Recommendation Letter](https://www.slideshare.net/YiranJing/recommendation-letter-taysols)
+- Data Science Intern at Douugh: [Brief Summary of what I am learning](https://github.com/YiranJing/AboutMe/tree/master/Douugh_Experience)
+- Data Scientist Inter at Lagardere Travel Retail (current position): [Project Demo](https://github.com/YiranJing/Lagardere_CommercialAnalysis/blob/master/README.md)
 
 ## Representative Proejcts
 - [Power Demand Foreast of South Australia](https://github.com/YiranJing/TimeSeriesAnalysis/blob/master/MachineLearningTimeSeries/Report.pdf) Reducing Power Supply Costs in South Australia using Statistical time series Modelling and ML Methods.
