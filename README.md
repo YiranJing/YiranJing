@@ -6,6 +6,7 @@
 - Bachelor of Science and Advanced Study: (University of Sydney)
   - Major: Statistics and Data Science 
   - Minor: Computer Science, and Business Analytics
+- Life Interest: CrossFit
 - Adoring 
   - [Stephen Hawking](https://en.wikipedia.org/wiki/Stephen_Hawking) 
   - [Wang Yibo (王一博)](https://en.wikipedia.org/wiki/Wang_Yibo)
@@ -22,7 +23,7 @@
 ## Work Experience Demo
 - Data Engineering Intern at Taysols: [Recommendation Letter](https://www.slideshare.net/YiranJing/recommendation-letter-taysols)
 - Data Science Intern at Douugh: [Brief Summary of what I am learning](https://github.com/YiranJing/AboutMe/tree/master/Douugh_Experience)
-- Data Scientist Inter at Lagardere Travel Retail (current position): [Project Demo](https://github.com/YiranJing/Lagardere_CommercialAnalysis/blob/master/README.md)
+- Data Scientist Inter at Lagardere Travel Retail (current position): [Project Demo and Experience Summery](https://github.com/YiranJing/Lagardere_CommercialAnalysis/blob/master/README.md)
 
 ## Representative Proejcts
 - [Power Demand Foreast of South Australia](https://github.com/YiranJing/TimeSeriesAnalysis/blob/master/MachineLearningTimeSeries/Report.pdf) Reducing Power Supply Costs in South Australia using Statistical time series Modelling and ML Methods.
