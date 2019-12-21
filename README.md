@@ -6,7 +6,17 @@
 - Bachelor of Science and Advanced Study: (University of Sydney)
   - Major: Statistics and Data Science 
   - Minor: Computer Science, and Business Analytics
-- **Programming Skills**: 👩🏻‍💻 Python, R, SQL, Amazon Sagemaker and Lambda, Java, Hadoop, Flink, JavaScript
+- Adoring 
+  - [Stephen Hawking](https://en.wikipedia.org/wiki/Stephen_Hawking) 
+  - [Wang Yibo (王一博)](https://en.wikipedia.org/wiki/Wang_Yibo)
+- Book 
+  - [Conversations with God](https://en.wikipedia.org/wiki/Conversations_with_God)
+  - [The Earth Chronicles](https://books.google.com.au/books/about/The_Complete_Earth_Chronicles.html?id=J1tNnwEACAAJ&source=kp_book_description&redir_esc=y)
+  - Psychology
+- Youtuber
+  - [王大喜](https://www.youtube.com/channel/UCn_g8sCdolfv2fchCYMuL3w)
+
+- **Programming Skills**: 👩🏻‍💻 Python, R, SQL, Amazon Sagemaker and Lambda, Java, Hadoop, Spark, JavaScript
 - [Software Engineering for Data Science](https://github.com/YiranJing/Software-Engineering-for-Data-Science/wiki) Study notes for supplementary skills, that are necessary for data science. 
 
 ## Work Experience Demo
