@@ -3,7 +3,8 @@
 - Work Experience [Yiran's LinkedIn](https://www.linkedin.com/in/yiranjing/)
 - Resume [Yiran's Resume](../master/Resume_Yiran.pdf) 
 
-### Find me more on [Personal Web](https://garlic-rust-tcsp.squarespace.com/)
+### Find me more on [Personal Web](https://garlic-rust-tcsp.squarespace.com/) 
+https://garlic-rust-tcsp.squarespace.com/
 
 
 ### Contact Me ✉️
