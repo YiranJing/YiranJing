@@ -1,7 +1,8 @@
-### Hello, I am Yiran Jing 😄  ![](https://komarev.com/ghpvc/?username=YiranJing&color=orange)
+### Hi, I am Yiran Jing 🌸 
+![](https://komarev.com/ghpvc/?username=YiranJing&color=orange)
 
-> - As a creative designer of data, I enjoy the data-related job and dreaming to be a great data scientist. 
-> - Another big goal of myself is to be professional in weight-lifting and crossfit 🏋🏻‍♀️. 
+> Graduate from the university of Sydney in Dec 2020, now I'm a data engineer at Canva Sydney. As a creative designer of data, I enjoy the data-related job and dreaming to be a great data scientist. </br>
+> I like many kinds of sport: Another big goal of myself is to be professional in weight-lifting and crossfit 🏋🏻‍♀️. I also engjoy dancing and start bodybuilding training since 2021. 
 
 [![Yiran's GitHub stats](https://github-readme-stats.vercel.app/api?username=YiranJing&hide=contribs,prs,issues&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
