@@ -1,11 +1,9 @@
 ### 👋🏻  Hey! I‘m Yiran Jing 
 ![](https://komarev.com/ghpvc/?username=YiranJing&color=orange)
 
-> *Education*: Graduate from the university of Sydney in Dec 2020, with majors in Statistics, Computer Science, Data Science, and Business Analytics.
+> *Education & Career*: Graduate from the university of Sydney, with majors in Statistics, Computer Science, Data Science, and Business Analytics. Join [Canva, Sydney](https://www.canva.com/) as data engineer since 16 Feb 2021. 
 
-> *Career*: Now I'm a data engineer at Canva, Sydney. As a creative designer of data, I enjoy the data-related job and dreaming to be a great data scientist. </br>
-
-> *Life*: Another big goal of myself is to be professional in weight-lifting and crossfit 🏋🏻‍♀️. I also enjoy dancing and start bodybuilding since 2021. 
+> *Life*: Big goal of myself is to be professional in weight-lifting and crossfit 🏋🏻‍♀️. I also enjoy dance (Jazz, Kpop).
 
 #### Connect Me 📩
 | Wechat: [A570281374]()  | Email: yjin5856@gmail.com  | [FaceBook](https://www.facebook.com/profile.php?id=100013914545338) |
